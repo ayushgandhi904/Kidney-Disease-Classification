@@ -21,9 +21,6 @@ Classifies Kidney Tumor based on object Detection
 
 Clone the repository
 
-```bash
-https://github.com/krishnaik06/Kidney-Disease-Classification-Deep-Learning-Project
-```
 ### STEP 01- Create a conda environment after opening the repository
 
 ```bash

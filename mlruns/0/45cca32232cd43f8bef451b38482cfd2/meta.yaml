@@ -1,0 +1,15 @@
+artifact_uri: file:///e:/ML_Projects/Kidney-Disease-Classification/mlruns/0/45cca32232cd43f8bef451b38482cfd2/artifacts
+end_time: 1701363475367
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 45cca32232cd43f8bef451b38482cfd2
+run_name: agreeable-crane-149
+run_uuid: 45cca32232cd43f8bef451b38482cfd2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701363465356
+status: 3
+tags: []
+user_id: Ayush Gandhi
